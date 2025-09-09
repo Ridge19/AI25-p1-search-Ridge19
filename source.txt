@@ -1,0 +1,24 @@
+References used for assignment: 
+** PLEASE NOTE: any github repository used was used to help and give me a 'stepping stone' on where to begin, i 
+DID NOT copy from the repository. 
+
+https://www.geeksforgeeks.org/artificial-intelligence/uniform-cost-search-ucs-in-ai/
+https://stackoverflow.com/questions/48142107/berkeley-pacman-cornersproblem
+https://github.com/MichaelWehar/FourCornersProblem
+https://www.cse.wustl.edu/~garnett/cse511a/code/project2
+https://www.reddit.com/r/aiclass/comments/m4dwf/question_regarding_heuristics_for_question_6_in/
+https://courses.grainger.illinois.edu/ece448/sp2020/MPs/mp1/assignment1.html#part2
+
+https://github.com/joe-wehbe/pacman-optimization/blob/main/search.py
+https://github.com/joe-wehbe/pacman-optimization/blob/main/searchAgents.py
+
+https://github.com/arthurutnehmer/CS188_Search/blob/master/search.py
+https://github.com/arthurutnehmer/CS188_Search/blob/master/searchAgents.py
+
+https://github.com/khanhngg/CSC665-pacman-search/blob/master/search/search.py
+https://github.com/khanhngg/CSC665-pacman-search/blob/master/search/searchAgents.py
+
+https://w3.cs.jmu.edu/molloykp/teaching/cs444_s24/pas/pacmanpaths/
+
+https://github.com/apsusanto/PacmanSearchAI/
+https://www.cse.wustl.edu/~garnett/cse511a/code/project2/searchAgents_py.html
